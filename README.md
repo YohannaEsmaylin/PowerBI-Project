@@ -19,7 +19,7 @@ This Power BI project visualises and analyses a synthetic digital marketing data
 
 * Conversion Rate by Campaign Channel
 
-Engagement (Time on Site) by Campaign Type
+* Engagement (Time on Site) by Campaign Type
 # 📌 Key Findings
 * Referral and PPC campaigns had the highest conversion rates, indicating stronger performance in converting leads.
 
